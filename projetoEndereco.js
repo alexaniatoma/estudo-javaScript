@@ -6,7 +6,7 @@ function exibirEndereço(rua, cidade, cep){
         cep,
     }
 }
-const endereco = exibirEndereço("Av. Marechael Hermes, 99" , "Praia Grande" , 11700250)
+const endereco = exibirEndereço("Av. Marechael Hermes" , "Praia Grande" , 11700250)
 console.log(endereco)
 
 */
